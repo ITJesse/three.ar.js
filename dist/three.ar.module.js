@@ -1604,4 +1604,4 @@ if (typeof window !== 'undefined' && _typeof(window.THREE) === 'object') {
   window.THREE.ARAnchorManager = ARAnchorManager;
 }
 
-export { ARDebug, ARPerspectiveCamera, ARReticle, ARUtils, ARView, ARAnchorManager };
+export { ARDebug, ARPerspectiveCamera, ARReticle, ARUtils, ARView, ARPlanes, ARAnchorManager };

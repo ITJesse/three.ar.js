@@ -1613,6 +1613,7 @@ exports.ARPerspectiveCamera = ARPerspectiveCamera;
 exports.ARReticle = ARReticle;
 exports.ARUtils = ARUtils;
 exports.ARView = ARView;
+exports.ARPlanes = ARPlanes;
 exports.ARAnchorManager = ARAnchorManager;
 
 Object.defineProperty(exports, '__esModule', { value: true });
