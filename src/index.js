@@ -33,6 +33,7 @@ if (typeof window !== 'undefined' && typeof window.THREE === 'object') {
   window.THREE.ARUtils = ARUtils;
   window.THREE.ARView = ARView;
   window.THREE.ARAnchorManager = ARAnchorManager;
+  window.THREE.ARPlanes = ARPlanes;
 }
 
 export {

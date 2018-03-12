@@ -1602,6 +1602,7 @@ if (typeof window !== 'undefined' && _typeof(window.THREE) === 'object') {
   window.THREE.ARUtils = ARUtils;
   window.THREE.ARView = ARView;
   window.THREE.ARAnchorManager = ARAnchorManager;
+  window.THREE.ARPlanes = ARPlanes;
 }
 
 export { ARDebug, ARPerspectiveCamera, ARReticle, ARUtils, ARView, ARPlanes, ARAnchorManager };
